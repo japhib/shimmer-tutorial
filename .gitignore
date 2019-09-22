@@ -1,0 +1,56 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Tt]emp/
+[Oo]bj/
+[Bb]uild
+[Ll]ibrary/
+sysinfo.txt
+*.stackdump
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+[Tt]humbs.db
+test mar26.app/
+sample1_Data/
+*.apk
+
+
+# ============ #
+# Custom       #
+# ============ #
+iOS/
+ios_build/
+iosbuild/
+DFF_iOS/
+Portunica-WebGL.zip
+WebGL_build
+*.zip
+AndroidBuild.apk
+AndroidBuild/
+AndroidBuild.main.obb
+*.log
+*.lock
+Packages/
+
